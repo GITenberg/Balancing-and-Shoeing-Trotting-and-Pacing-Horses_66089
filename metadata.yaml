@@ -1,11 +1,16 @@
 _repo: Balancing-and-Shoeing-Trotting-and-Pacing-Horses_66089
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 66089-h/images/cover.jpg
 creator:
   author:
     agent_name: Moore, Wm. J.
     gutenberg_agent_id: '53632'
     url: http://www.gutenberg.org/2009/agents/53632
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66089#Balancing-and-Shoeing-Trotting-and-Pacing-Horses
 gutenberg_issued: '2021-08-19'
 gutenberg_type: Text
 identifiers:
